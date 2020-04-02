@@ -13,12 +13,7 @@ public class comparaciones {
         _postfija = postfija;
     }
 
-    /**
-     * Clase que retorno los temporates y que almacene en esa misma clase los
-     * temporales en el arraylist i = contador num1 de la pila num2 de la pila
-     * operador retorno T0, T1 ALMACENAR = T0 = 4 / 4
-     * @return 
-     */
+  
     //pilas : https://censorcosmico.blogspot.com/2012/06/pilas-comandos-basicos-push-pop-peek.html
     public ArrayList<String> operaciones() {
         int index = 0;

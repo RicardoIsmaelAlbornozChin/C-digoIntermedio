@@ -65,9 +65,6 @@ public class Codigo_intermedio {
                     postfixSinEspacios += postfix.charAt(i);
                 }
             }
-
-            pila mostrar = new pila(postfixSinEspacios);
-
             //Mostrar resultados:
             ///System.out.println("Expresion Infija: " + infix);
             comparaciones letras = new comparaciones(postfixSinEspacios);
